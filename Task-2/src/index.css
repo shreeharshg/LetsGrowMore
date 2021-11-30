@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+  background-image: url("./containers/1.jpg");
+
+}
+
+.tc{
+  color: black;
+  text-shadow: 0.2;
+  align-items: center;
+}
+
+.loader{
+  align-items: center;
+}
+
+

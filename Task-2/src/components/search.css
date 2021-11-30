@@ -1,0 +1,12 @@
+#search
+{
+    border-radius: 50px;
+    background-color: rgb(255, 255, 255);
+    color: grey;
+    border: none;
+    width: 40%;
+}
+
+#search.focus{
+    border: none;
+}

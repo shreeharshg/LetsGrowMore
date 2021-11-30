@@ -1,0 +1,27 @@
+#card
+{
+    border-radius: 10px;
+    background-color:white;
+    color:rgb(0, 0, 0);
+    
+    width: 50%;
+    
+    display: inline-block;
+    flex-direction: row;
+    
+    
+}
+
+
+#card:hover
+{
+    color:rgb(255, 255, 255);
+    background-color: black;
+    
+}
+#image
+{
+    border-radius: 50%;
+    border-width: 10px;
+}
+
